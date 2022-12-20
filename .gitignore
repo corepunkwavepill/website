@@ -64,6 +64,8 @@ typings/
 **/.cache
 public
 
+**/.obsidian
+
 .idea
 .vscode
 .DS_Store
